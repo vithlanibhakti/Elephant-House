@@ -1,0 +1,127 @@
+{
+
+  "appname" : "Fresh Bucket",
+
+  "Homepage_category" : "Category",
+  "Homepage_category_all" : "View All",
+  "Homepage_products" : "Products",
+  "Homepage_addtocart" : "Add to cart",
+  "Homepage_offers" : "New Offers",
+  "Homepage_Hi" : "Hi",
+  "Homepage_logout" : "Logout",
+  "Homepage_login" : "Login Now",
+
+  "loginpage_title" :  "Login",
+  "loginpage_mobile" :  "Mobile",
+  "loginpage_password" :  "Password",
+  "loginpage_rememberme" :  "Remember Me",
+  "loginpage_loginbtn" :  "Login",
+  "loginpage_dont" :  "Don't have an account?",
+  "loginpage_regnow" :  "Register Now",
+
+  "Registerpage_title" :  "Register",
+  "Registerpage_name" :  "Name",
+  "Registerpage_mobile" : "Mobile",
+  "Registerpage_address" : "Address",
+  "Registerpage_email" : "Email",
+  "Registerpage_password" : "Password",
+  "Registerpage_register" : "Register",
+  "Registerpage_logintext" : "Already have an account?",
+  "Registerpage_login" : "Login",
+
+  "Menupage_home" : "Home",
+  "Menupage_myorders" : "My Orders",
+  "Menupage_offers" : "Offers",
+  "Menupage_notifications" : "Notifications",
+  "Menupage_contactus" : "Contact Us",
+  "Menupage_feedback" : "Feedback",
+  "Menupage_category" : "Category",
+  "Menupage_terms" : "Terms",
+  "Menupage_privacy" : "Privacy Policy",
+  "Menupage_language" : "Select Language",
+  "Menupage_logout" : "Logout",
+
+  "Productpage_addtocart" : "Add to Cart",
+
+  "Offerspage_title" : "Offers",
+  "Offerspage_addtocart" : "Add to Cart",
+
+  "Cartpage_title" : "My Cart",
+  "Cartpage_cartempty" : "Cart Empty",
+  "Cartpage_subtotal" : "Sub Total",
+  "Cartpage_delivery" : "Delivery Charges",
+  "Cartpage_total" : "Total",
+  "Cartpage_confirm" : "Confirm Order",
+  "Cartpage_coupon" : "Coupon",
+
+  "Deliverypage_title" : "Delivery Info",
+  "Deliverypage_name" : "Name",
+  "Deliverypage_city" : "City",
+  "Deliverypage_area" : "Area",
+  "Deliverypage_address" : "Address",
+  "Deliverypage_mobile" : "Mobile Number",
+  "Deliverypage_dtype" : "Delivery Type",
+  "Deliverypage_nextbtn" : "Next",
+
+  "Myorderpage_title" : "My Orders",
+  "Myorderpage_orderid" : "ORDER ID",
+  "Myorderpage_placedon" : "Placed on",
+  "Myorderpage_viewdetails" : "View Invoice",
+  "Myorderpage_received" : "Received",
+  "Myorderpage_confirm" : "Confirmed",
+  "Myorderpage_prepare" : "In Process",
+  "Myorderpage_onway"  : "On the Way",
+  "Myorderpage_delivered" : "Delivered",
+  "Myorderpage_cancel" : "Cancel",
+  "Myorderpage_deliveryperson" : "Delivery Person",
+  "Myorderpage_deliverycode" : "Delivery Code",
+
+  "Orderdetailspage_title" : "Order Details",
+  "Orderdetailspage_detail" : "Order Details",
+  "Orderdetailspage_orderid" : "Order ID",
+  "Orderdetailspage_placedon" : "Placed on",
+  "Orderdetailspage_paymode" : "Payment Mode",
+  "Orderdetailspage_shippingaddress" : "Shipping Address",
+  "Orderdetialspage_contact" : "Contact",
+  "Orderdetailspage_cartitems" : "Cart Items",
+  "Orderdetailspage_item" : "Item",
+  "Orderdetailspage_type" : "Type",
+  "Orderdetailspage_overallqty" : "Overall Qty",
+  "Orderdetailspage_price" : "Price",
+  "Orderdetailspage_shipping" : "Shipping",
+  "Orderdetailspage_total" : "Total",
+  "Orderdetailspage_coupon" : "Coupon",
+
+  "Paymentpage_title" : "Payment",
+  "Paymentpage_cashondelivery" : "Cash On Delivery",
+
+  "Notificationpage_title" : "Notifications",
+
+  "Contactpage_title" : "Contact Us",
+  "Contactpage_name" : "Name",
+  "Contactpage_mobile" : "Mobile",
+  "Contactpage_message" : "Message",
+  "Contactpage_send" : "Send",
+
+  "Feedbackpage_title" : "Feedback",
+  "Feedback_youmsg" : "Your Message",
+  "Feedback_submit" : "Submit",
+
+  "Productdescriptionpage_title" : "Product Description",
+  "Productdescriptionpage_addtocart" : "Add To Cart",
+
+  "Searchpage_title" : "Search",
+  "Searchpage_addtocart" : "Add to Cart",
+  "Searchpage_buynow" : "Buy Now",
+
+
+  "Orderconfirmpage_title" : "Order Confirmation",
+  "Orderconfirmpage_thankyou" : "Thanks You",
+  "Orderconfirmpage_yourorder" : "Your order has been placed",
+  "Orderconfirmpage_ordernumber" : "Your Order Number",
+  "Orderconfirmpage_msg" : "Please stay alert on order & delivery status",
+
+
+ "Termspage_title" : "Terms & Privacy",
+ "Policy_Statement":"Policy Statement"
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b0108d0b-d9cb-45c7-bd23-4d404cf0d826" name="Elephant" url="http://139.59.93.95/">
+        <fileTransfer rootFolder="/var/www/html" accessType="SFTP" host="139.59.93.95" port="22" sshConfigId="af7065a3-4422-4106-9da4-03da3e379e8f" sshConfig="root@139.59.93.95:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

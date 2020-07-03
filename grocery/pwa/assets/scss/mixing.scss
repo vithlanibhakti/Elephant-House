@@ -1,0 +1,20 @@
+// Large devices (desktops, 992px and up)
+@mixin media-breakpoint-up-lg {
+    @media screen and (min-width:992px) {
+        @content;
+    }
+}
+
+// Medium devices (tablets, 768px and up)
+@mixin media-breakpoint-up-md {
+    @media screen and (min-width: 768px) {
+        @content;
+    }
+}
+
+@mixin on-hover-box-shadow {
+    &:hover {
+        box-shadow: 0px 0px 10px grey;
+        transition: all 0.5s ease;
+    }
+}

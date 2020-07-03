@@ -1,0 +1,114 @@
+{
+
+  "appname" : "Gracery",
+
+  "Homepage_category" : "الفئة",
+  "Homepage_products" : "منتجات",
+  "Homepage_addtocart" : "أضف إلى السلة",
+  "Homepage_offers" : "عروض جديدة",
+  "Homepage_Hi" : "مرحبا",
+  "Homepage_logout" : "تسجيل خروج",
+  "Homepage_login" : "تسجيل الدخول الآن",
+  
+  "loginpage_title" :  "تسجيل الدخول",
+  "loginpage_mobile" :  "هاتف",
+  "loginpage_password" :  "كلمه السر",
+  "loginpage_rememberme" :  "تذكرنى",
+  "loginpage_loginbtn" :  "تسجيل الدخول",
+  "loginpage_dont" :  "لا تملك حساب؟",
+  "loginpage_regnow" :  "سجل الان",
+
+  "Registerpage_title" :  "تسجيل",
+  "Registerpage_name" :  "اسم",
+  "Registerpage_mobile" : "هاتف",
+  "Registerpage_address" : "عنوان",
+  "Registerpage_email" : "البريد الإلكتروني",
+  "Registerpage_password" : "كلمه السر",
+  "Registerpage_register" : "تسجيل",
+  "Registerpage_logintext" : "هل لديك حساب؟",
+  "Registerpage_login" : "تسجيل الدخول",
+
+  "Menupage_home" : "الصفحة الرئيسية",
+  "Menupage_myorders" : "طلباتي",
+  "Menupage_offers" : "عروض",
+  "Menupage_notifications" : "إشعارات",
+  "Menupage_contactus" : "اتصل بنا",
+  "Menupage_feedback" : "ردود الفعل",
+  "Menupage_logout" : "تسجيل خروج",
+
+  "Productpage_addtocart" : "أضف إلى السلة",
+
+  "Offerspage_title" : "عروض",
+  "Offerspage_addtocart" : "أضف إلى السلة",
+
+  "Cartpage_title" : "سلة التسوق",
+  "Cartpage_cartempty" : "سلة التسوق فارغة",
+  "Cartpage_subtotal" : "المجموع الفرعي",
+  "Cartpage_delivery" : "رسوم التوصيل",
+  "Cartpage_total" : "مجموع",
+  "Cartpage_confirm" : "أكد الطلب",
+
+  "Deliverypage_title" : "معلومات التسليم",
+  "Deliverypage_name" : "اسم",
+  "Deliverypage_city" : "مدينة",
+  "Deliverypage_area" : "منطقة",
+  "Deliverypage_address" : "عنوان",
+  "Deliverypage_mobile" : "هاتف",
+  "Deliverypage_dtype" : "نوع التوصيل",
+  "Deliverypage_nextbtn" : "التالى",
+
+  "Myorderpage_title" : "طلباتي",
+  "Myorderpage_orderid" : "رقم التعريف الخاص بالطلب",
+  "Myorderpage_placedon" : "موضوع على",
+  "Myorderpage_viewdetails" : "عرض التفاصيل",
+  "Myorderpage_received" : "تم الاستلام",
+  "Myorderpage_confirm" : "تم تأكيد",
+  "Myorderpage_prepare" : "تحت المعالجة",
+  "Myorderpage_onway"  : "علي الطريق",
+  "Myorderpage_delivered" : "تم التوصيل",
+  "Myorderpage_cancel" : "إلغاء",
+
+  "Orderdetailspage_title" : "تفاصيل الطلب",
+  "Orderdetailspage_detail" : "تفاصيل الطلب",
+  "Orderdetailspage_orderid" : "رقم التعريف الخاص بالطلب",
+  "Orderdetailspage_placedon" : "موضوع على",
+  "Orderdetailspage_paymode" : "طريقة الدفع",
+  "Orderdetailspage_shippingaddress" : "عنوان الشحن",
+  "Orderdetialspage_contact" : "اتصل",
+  "Orderdetailspage_cartitems" : "عناصر سلة التسوق",
+  "Orderdetailspage_item" : "بند",
+  "Orderdetailspage_type" : "نوع",
+  "Orderdetailspage_overallqty" : "الكمية الإجمالية",
+  "Orderdetailspage_price" : "السعر",
+
+  "Paymentpage_title" : "دفع",
+  "Paymentpage_cashondelivery" : "الدفع عند الاستلام",
+
+  "Notificationpage_title" : "إشعارات",
+  
+  "Contactpage_title" : "اتصل بنا",
+  "Contactpage_name" : "اسم",
+  "Contactpage_mobile" : "التليفون المحمول",
+  "Contactpage_message" : "رسالة",
+  "Contactpage_send" : "إرسال",
+
+  "Feedbackpage_title" : "ردود الفعل",
+  "Feedback_youmsg" : "رسالتك",
+  "Feedback_submit" : "إرسال",
+
+  "Productdescriptionpage_title" : "وصف المنتج",
+  "Productdescriptionpage_addtocart" : "أضف إلى السلة",
+
+  "Searchpage_title" : "أضف إلى عربة التسوق",
+  "Searchpage_addtocart" : "أضف إلى السلة",
+  "Searchpage_buynow" : "اشتري الآن",
+
+
+  "Orderconfirmpage_title" : "تأكيد الطلب",
+  "Orderconfirmpage_thankyou" : "شكرا لكم",
+  "Orderconfirmpage_yourorder" : "وقد وضعت طلبك",
+  "Orderconfirmpage_ordernumber" : "رقم طلبك",
+  "Orderconfirmpage_msg" : "يجب إرسال جميع تفاصيل شحن الطلبات والحالة والتسليم إليك عبر رسالة نصية قصيرة"
+
+ 
+}
